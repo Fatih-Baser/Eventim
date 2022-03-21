@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{579F51FA-0F31-4D17-A1C7-95A9379E68AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/SingletonClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/App.config">
     <Files>
-      <File FileName="Singleton/SingletonClass.cs" Line="1" Column="1" />
+      <File FileName="Singleton/SingletonClass.cs" Line="29" Column="24" />
       <File FileName="Singleton/Properties/AssemblyInfo.cs" />
-      <File FileName="Singleton/App.config" />
-      <File FileName="Singleton/Program.cs" />
+      <File FileName="Singleton/App.config" Line="7" Column="1" />
+      <File FileName="Singleton/Program.cs" Line="24" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,10 +12,13 @@
           <Node name="Singleton" expanded="True">
             <Node name="Singleton" expanded="True">
               <Node name="Properties" expanded="True" />
-              <Node name="SingletonClass.cs" selected="True" />
+              <Node name="App.config" selected="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

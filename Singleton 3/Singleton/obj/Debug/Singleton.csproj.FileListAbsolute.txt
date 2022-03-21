@@ -1,21 +1,28 @@
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\bin\Debug\Singleton.exe.config
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\bin\Debug\Singleton.exe
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\bin\Debug\Singleton.pdb
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\obj\Debug\Singleton.exe
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\obj\Debug\Singleton.pdb
-C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
-C:\Users\gabim\Desktop\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
-C:\Users\gabim\Desktop\AEH\Design of IT systems - eng\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/bin/Debug/Singleton.exe.config
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/bin/Debug/Singleton.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/bin/Debug/Singleton.pdb
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/obj/Debug/Singleton.csprojAssemblyReference.cache
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/obj/Debug/Singleton.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/obj/Debug/Singleton.pdb
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.exe.config
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.exe
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.pdb
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.csprojResolveAssemblyReference.cache
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.exe
+C:/Users/gabim/Desktop/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.pdb
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.exe.config
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.exe
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/bin/Debug/Singleton.pdb
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.csprojAssemblyReference.cache
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.exe
+C:/Users/gabim/Desktop/AEH/Design of IT systems - eng/Projects/Singleton/Singleton/obj/Debug/Singleton.pdb
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/bin/Debug/Singleton.exe.config
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/bin/Debug/Singleton.exe
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/bin/Debug/Singleton.pdb
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/obj/Debug/Singleton.csproj.AssemblyReference.cache
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/obj/Debug/Singleton.csproj.CoreCompileInputs.cache
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/obj/Debug/Singleton.exe
+/Users/fatihbaser/Documents/GitHub/Eventim/Singleton 3/Singleton/obj/Debug/Singleton.pdb

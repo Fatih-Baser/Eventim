@@ -6,29 +6,34 @@ using System.Threading.Tasks;
 
 namespace SingletonExample
 {
-    class SingletonClass
+    class Singleton
     {
-        // private instance of the class
-        private static SingletonClass instance = new SingletonClass();
 
-        // some variables 
-        private int count;
-        private string name;
+        private static Singleton instancja = new Singleton();
 
-        // private constructor
-        private SingletonClass() { }
 
-        // static accessories for the instance of singleton class
-        // The internal keyword is an access modifier for types and type members.
-        internal static SingletonClass Instance {
-            get => instance;
-            set => instance = value;
+        private int okres;
+        private string rodzaj_miejsca, imie_i_nazwisko  ;
+
+        private Singleton() { }
+
+
+        internal static Singleton Instancja
+        {
+            get => instancja;
+            set => instancja = value;
         }
 
-        public int Count { get => count; set => count = value; }
-        public string Name { get => name; set => name = value; }
+        public int Okres { get => okres; set => okres = value; }
+        public string Rodzaj_miejsca { get => rodzaj_miejsca; set => rodzaj_miejsca = value; }
+        public string Imie_i_nazwisko { get => imie_i_nazwisko; set => imie_i_nazwisko = value; }
 
-        
+
     }
+
+
+
 }
+
+
 
