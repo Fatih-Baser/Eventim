@@ -12,8 +12,7 @@ namespace FactoryMethodPattern
         static void Main(string[] args)
         {
             factory hotel = new wybor();
-            Interface pokojstudent = hotel.GetMiejsca("miejscastudent");
-            pokojstudent.Rozpiska(50, 4);
+         
             Interface pokojstandard = hotel.GetMiejsca("miejscastandard");
             pokojstandard.Rozpiska(100, 3);
             Interface pokojpremium = hotel.GetMiejsca("miejscapremium");

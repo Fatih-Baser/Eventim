@@ -48,7 +48,6 @@
     <Compile Include="Classes\Interface.cs" />
     <Compile Include="Classes\miejscapremium.cs" />
     <Compile Include="Classes\miejscastandard.cs" />
-    <Compile Include="Classes\pokojstudent.cs" />
     <Compile Include="Classes\wybor.cs" />
   </ItemGroup>
   <ItemGroup>

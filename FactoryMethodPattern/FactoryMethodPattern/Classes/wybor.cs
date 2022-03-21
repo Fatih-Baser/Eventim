@@ -12,8 +12,7 @@ namespace FactoryMethodPattern.Classes
         {
             switch (Miejsca)
             {
-                case "miejscastudent":
-                    return new miejscastudent();
+               
                 case "miejscastandard":
                     return new miejscastandard();
                 case "miejscapremium":

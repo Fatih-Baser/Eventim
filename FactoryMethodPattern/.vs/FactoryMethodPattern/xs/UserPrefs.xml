@@ -1,22 +1,22 @@
 ﻿<Properties StartupConfiguration="{05EE6563-0DB1-4BED-9D20-C9837C38D827}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Classes/wybor.cs">
     <Files>
-      <File FileName="FactoryMethodPattern/Program.cs" Line="22" Column="1" />
+      <File FileName="FactoryMethodPattern/Program.cs" Line="15" Column="10" />
       <File FileName="FactoryMethodPattern/Classes/factory.cs" Line="11" Column="60" />
-      <File FileName="FactoryMethodPattern/Classes/wybor.cs" Line="22" Column="85" />
+      <File FileName="FactoryMethodPattern/Classes/wybor.cs" Line="15" Column="16" />
       <File FileName="FactoryMethodPattern/Classes/Interface.cs" Line="11" Column="9" />
-      <File FileName="FactoryMethodPattern/Classes/pokojpremium.cs" Line="11" Column="29" />
-      <File FileName="FactoryMethodPattern/Classes/pokojstandard.cs" Line="13" Column="48" />
-      <File FileName="FactoryMethodPattern/Classes/pokojstudent.cs" Line="17" Column="1" />
+      <File FileName="FactoryMethodPattern/Classes/miejscapremium.cs" Line="1" Column="1" />
+      <File FileName="FactoryMethodPattern/Classes/miejscastandard.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="FactoryMethodPattern" expanded="True">
             <Node name="FactoryMethodPattern" expanded="True">
-              <Node name="Classes" expanded="True" />
+              <Node name="Classes" expanded="True">
+                <Node name="wybor.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
