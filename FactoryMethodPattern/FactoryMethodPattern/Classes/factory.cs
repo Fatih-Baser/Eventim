@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern.Classes
 {
-    class Scooter : IFactory
+    abstract class factory
     {
-        public void Drive(int miles)
-        {
-            Console.WriteLine("Drive the Scooter : " + miles.ToString() + "km");
-        }
+        public abstract Interface GetMiejsca(String Miejsca);
+
     }
 }

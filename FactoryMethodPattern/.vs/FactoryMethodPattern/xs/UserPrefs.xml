@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{05EE6563-0DB1-4BED-9D20-C9837C38D827}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethodPattern/Classes/pokojstudent.cs">
+    <Files>
+      <File FileName="FactoryMethodPattern/Program.cs" />
+      <File FileName="FactoryMethodPattern/Classes/factory.cs" Line="7" Column="39" />
+      <File FileName="FactoryMethodPattern/Classes/wybor.cs" Line="7" Column="39" />
+      <File FileName="FactoryMethodPattern/Classes/Interface.cs" Line="7" Column="39" />
+      <File FileName="FactoryMethodPattern/Classes/pokojpremium.cs" Line="7" Column="39" />
+      <File FileName="FactoryMethodPattern/Classes/pokojstandard.cs" Line="7" Column="39" />
+      <File FileName="FactoryMethodPattern/Classes/pokojstudent.cs" Line="7" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethodPattern" expanded="True">
+            <Node name="FactoryMethodPattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="pokojpremium.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethodPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

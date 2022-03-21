@@ -7,17 +7,17 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            VehicleFactory factory = new ConcreteVehicleFactory();
-
-            IFactory scooter = factory.GetVehicle("Scooter");
-            scooter.Drive(10);
-
-            IFactory bike = factory.GetVehicle("Bike");
-            bike.Drive(20);
+            factory hotel = new wybor();
+            Interface pokojstudent = hotel.GetMiejsca("miejscastudent");
+            pokojstudent.Rozpiska(50, 4);
+            Interface pokojstandard = hotel.GetMiejsca("miejscastandard");
+            pokojstandard.Rozpiska(100, 3);
+            Interface pokojpremium = hotel.GetMiejsca("miejscapremium");
+            pokojpremium.Rozpiska(200, 2);
             Console.ReadKey();
 
         }

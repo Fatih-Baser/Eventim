@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/SingletonClass.cs">
     <Files>
       <File FileName="Singleton/SingletonClass.cs" Line="1" Column="1" />
-      <File FileName="Singleton/Properties/AssemblyInfo.cs" Line="1" Column="1" />
-      <File FileName="Singleton/App.config" Line="7" Column="1" />
-      <File FileName="Singleton/Program.cs" Line="1" Column="1" />
+      <File FileName="Singleton/Properties/AssemblyInfo.cs" />
+      <File FileName="Singleton/App.config" />
+      <File FileName="Singleton/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

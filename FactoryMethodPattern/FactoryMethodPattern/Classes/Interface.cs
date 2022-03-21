@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryMethodPattern.Classes
 {
-    class Bike : IFactory
+    internal interface Interface
     {
-        public void Drive(int miles)
-        {
-            Console.WriteLine("Drive the Bike : " + miles.ToString() + "km");
-        }
+         void Rozpiska(int cena, int numersiedzenia);
+        
     }
 }
