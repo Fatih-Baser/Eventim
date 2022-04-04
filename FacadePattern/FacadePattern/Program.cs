@@ -11,9 +11,9 @@ namespace FacadePattern
     {
         static void Main(string[] args)
         {
-            CarFacade facade = new CarFacade();
+            Facade facade = new Facade();
 
-            facade.CreateCompleteCar();
+            facade.Create();
             Console.ReadKey();
         }
     }

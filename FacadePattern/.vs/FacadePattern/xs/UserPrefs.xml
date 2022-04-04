@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{57EB67D4-1FFF-4208-9D37-AF2C85A27485}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FacadePattern/Classes/EventimNamee.cs">
+    <Files>
+      <File FileName="FacadePattern/Classes/CarModel.cs" Line="17" Column="1" />
+      <File FileName="FacadePattern/Classes/CarFacade.cs" Line="33" Column="19" />
+      <File FileName="FacadePattern/Classes/CarBody.cs" Line="15" Column="6" />
+      <File FileName="FacadePattern/Classes/CarEngine.cs" Line="17" Column="1" />
+      <File FileName="FacadePattern/Program.cs" Line="18" Column="10" />
+      <File FileName="FacadePattern/Classes/EventimNamee.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FacadePattern" expanded="True">
+            <Node name="FacadePattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="EventimNamee.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FacadePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

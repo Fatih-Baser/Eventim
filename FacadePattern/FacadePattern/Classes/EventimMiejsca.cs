@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace FacadePattern.Classes
 {
-    class CarModel
+    class EventimMiejsca
     {
-        public void SetModel()
+        public void SetMiejsca(string miejsca)
         {
-            Console.WriteLine(" CarModel - SetModel");
+            Console.WriteLine(" Miejsca = " +miejsca);
         }
     }
 }

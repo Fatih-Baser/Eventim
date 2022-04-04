@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace FacadePattern.Classes
 {
-    class CarAccessories
+    class EventimNamee
     {
-        public void SetAccessories()
+        public void Setname(string name)
         {
-            Console.WriteLine(" CarAccessories - SetAccessories");
+            Console.WriteLine(" Name = " + name);
         }
     }
 }
+

@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace FacadePattern.Classes
 {
-    class CarBody
+    class EventimPhoneNo
     {
-        public void SetBody()
+        public void SetPhoneNo(string phoneNo)
         {
-            Console.WriteLine(" CarBody - SetBody");
+            Console.WriteLine(" Phone No"+ phoneNo );
         }
     }
 }
