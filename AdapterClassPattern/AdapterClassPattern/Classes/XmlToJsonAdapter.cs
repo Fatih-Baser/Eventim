@@ -17,17 +17,19 @@ namespace AdapterClassPattern.Classes
 
         public void ConvertXmlToJson()
         {
-            var manufacturers = _xmlConverter.GetXML()
-                    .Element("Manufacturers")
-                    .Elements("Manufacturer")
-                    .Select(m => new Manufacturer
-                    {
-                        City = m.Attribute("City").Value,
+            var eventims = _xmlConverter.GetXML()
+                    .Element("Eventims")
+                    .Elements("Eventim")
+                    .Select(m => new Eventim
+                    { 
                         Name = m.Attribute("Name").Value,
-                        Year = Convert.ToInt32(m.Attribute("Year").Value)
+                        Surname = m.Attribute("Surname").Value,
+                        PhoneNo = Convert.ToInt32(m.Attribute("PhoneNo").Value),
+                        Miejsca = m.Attribute("Miejsca").Value
+                        
                     });
 
-            new JsonConverter(manufacturers)
+            new JsonConverter(eventims)
                 .ConvertToJson();
         }
     }

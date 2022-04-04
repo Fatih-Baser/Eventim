@@ -12,12 +12,13 @@ namespace AdapterClassPattern.Classes
         public XDocument GetXML()
         {
             var xDocument = new XDocument();
-            var xElement = new XElement("Manufacturers");
-            var xAttributes = ManufacturerDataProvider.GetData()
-                .Select(m => new XElement("Manufacturer",
-                                    new XAttribute("City", m.City),
+            var xElement = new XElement("Eventims");
+            var xAttributes = EventimDataProvider.GetData()
+                .Select(m => new XElement("Eventim",
                                     new XAttribute("Name", m.Name),
-                                    new XAttribute("Year", m.Year)));
+                                    new XAttribute("Surname", m.Surname),
+                                     new XAttribute("PhoneNo", m.PhoneNo),
+                                    new XAttribute("Miejsca", m.Miejsca)));
 
             xElement.Add(xAttributes);
             xDocument.Add(xElement);

@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace AdapterClassPattern.Classes
 {
-    public class Manufacturer
+    public class Eventim
+
     {
         public string Name { get; set; }
-        public string City { get; set; }
-        public int Year { get; set; }
+        public string Surname { get; set; }
+        public int PhoneNo { get; set; }
+        public string Miejsca { get; set; }
     }
 }

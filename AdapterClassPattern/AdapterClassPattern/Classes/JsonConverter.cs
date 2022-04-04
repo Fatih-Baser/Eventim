@@ -10,19 +10,19 @@ namespace AdapterClassPattern.Classes
 {
     class JsonConverter
     {
-        private IEnumerable<Manufacturer> _manufacturers;
+        private IEnumerable<Eventim> eventim_;
 
-        public JsonConverter(IEnumerable<Manufacturer> manufacturers)
+        public JsonConverter(IEnumerable<Eventim> eventim)
         {
-            _manufacturers = manufacturers;
+            eventim_ = eventim;
         }
 
         public void ConvertToJson()
         {
-            var jsonManufacturers = JsonConvert.SerializeObject(_manufacturers, Newtonsoft.Json.Formatting.Indented);
+            var jsonEventims = JsonConvert.SerializeObject(eventim_, Newtonsoft.Json.Formatting.Indented);
 
             Console.WriteLine("\nPrinting JSON list\n");
-            Console.WriteLine(jsonManufacturers);
+            Console.WriteLine(jsonEventims);
         }
     }
 }

@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F25349E2-6BA0-4FC6-92FF-337547A64C08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdapterClassPattern/Classes/JsonConverter.cs">
+    <Files>
+      <File FileName="AdapterClassPattern/Classes/IXmlToJson.cs" Line="1" Column="1" />
+      <File FileName="AdapterClassPattern/Classes/JsonConverter.cs" Line="11" Column="24" />
+      <File FileName="AdapterClassPattern/Classes/Manufacturer.cs" Line="17" Column="2" />
+      <File FileName="AdapterClassPattern/Classes/ManufacturerDataProvider.cs" Line="18" Column="31" />
+      <File FileName="AdapterClassPattern/Classes/XmlConverter.cs" Line="16" Column="31" />
+      <File FileName="AdapterClassPattern/Program.cs" Line="1" Column="1" />
+      <File FileName="AdapterClassPattern/Classes/XmlToJsonAdapter.cs" Line="21" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdapterClassPattern" expanded="True">
+            <Node name="AdapterClassPattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="JsonConverter.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AdapterClassPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
