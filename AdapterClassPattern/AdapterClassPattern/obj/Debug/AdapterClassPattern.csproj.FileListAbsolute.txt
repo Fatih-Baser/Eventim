@@ -1,0 +1,10 @@
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\bin\Debug\AdapterClassPattern.exe.config
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\bin\Debug\AdapterClassPattern.exe
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\bin\Debug\AdapterClassPattern.pdb
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\obj\Debug\AdapterClassPattern.csprojAssemblyReference.cache
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\obj\Debug\AdapterClassPattern.csproj.CoreCompileInputs.cache
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\obj\Debug\AdapterClassPattern.csproj.CopyComplete
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\obj\Debug\AdapterClassPattern.exe
+C:\Users\Gabrysia\Desktop\Introduction to design IT systems\Project examples\AdapterClassPattern\AdapterClassPattern\obj\Debug\AdapterClassPattern.pdb

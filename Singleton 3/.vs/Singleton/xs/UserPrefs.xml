@@ -1,19 +1,29 @@
 ﻿<Properties StartupConfiguration="{579F51FA-0F31-4D17-A1C7-95A9379E68AD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/App.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../FactoryMethodPattern/FactoryMethodPattern/Classes/factory.cs">
     <Files>
-      <File FileName="Singleton/SingletonClass.cs" Line="29" Column="24" />
-      <File FileName="Singleton/Properties/AssemblyInfo.cs" />
-      <File FileName="Singleton/App.config" Line="7" Column="1" />
-      <File FileName="Singleton/Program.cs" Line="24" Column="1" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Classes/factory.cs" Line="11" Column="60" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Classes/Interface.cs" Line="11" Column="18" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Classes/miejscapremium.cs" Line="11" Column="33" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Classes/miejscastandard.cs" Line="11" Column="33" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Program.cs" Line="17" Column="46" />
+      <File FileName="Singleton/Program.cs" Line="28" Column="1" />
+      <File FileName="Singleton/SingletonClass.cs" Line="31" Column="1" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/Classes/wybormiejsca.cs" Line="17" Column="14" />
+      <File FileName="../FactoryMethodPattern/FactoryMethodPattern/App.config" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Singleton" expanded="True">
-            <Node name="Singleton" expanded="True">
+          <Node name="FactoryMethodPattern" expanded="True">
+            <Node name="FactoryMethodPattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="factory.cs" selected="True" />
+              </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="App.config" selected="True" />
             </Node>
+          </Node>
+          <Node name="Singleton" expanded="True">
+            <Node name="Singleton" expanded="True" />
           </Node>
         </State>
       </Pad>

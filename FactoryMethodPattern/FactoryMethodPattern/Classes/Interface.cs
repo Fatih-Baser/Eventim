@@ -8,7 +8,7 @@ namespace FactoryMethodPattern.Classes
 {
     internal interface Interface
     {
-         void Rozpiska(int cena, int numersiedzenia);
+         void Koncertbilet(int cena, int numersiedzenia);
         
     }
 }

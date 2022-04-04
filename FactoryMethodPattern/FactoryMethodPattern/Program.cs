@@ -11,12 +11,12 @@ namespace FactoryMethodPattern
     {
         static void Main(string[] args)
         {
-            factory hotel = new wybor();
+            factory koncert = new wybormiejsca();
          
-            Interface pokojstandard = hotel.GetMiejsca("miejscastandard");
-            pokojstandard.Rozpiska(100, 3);
-            Interface pokojpremium = hotel.GetMiejsca("miejscapremium");
-            pokojpremium.Rozpiska(200, 2);
+            Interface pokojstandard = koncert.GetMiejsca("miejscastandard");
+            pokojstandard.Koncertbilet(100, 53);
+            Interface pokojpremium = koncert.GetMiejsca("miejscapremium");
+            pokojpremium.Koncertbilet(200, 2);
             Console.ReadKey();
 
         }

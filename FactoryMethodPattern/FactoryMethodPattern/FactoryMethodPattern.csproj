@@ -48,7 +48,7 @@
     <Compile Include="Classes\Interface.cs" />
     <Compile Include="Classes\miejscapremium.cs" />
     <Compile Include="Classes\miejscastandard.cs" />
-    <Compile Include="Classes\wybor.cs" />
+    <Compile Include="Classes\wybormiejsca.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
