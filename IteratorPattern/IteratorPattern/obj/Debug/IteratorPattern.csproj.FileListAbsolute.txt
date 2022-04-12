@@ -1,0 +1,14 @@
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csprojAssemblyReference.cache
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.CoreCompileInputs.cache
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe.config
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.pdb
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.exe
+C:/Users/Gabrysia/Desktop/Introduction to design IT systems/Project examples/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.pdb
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.AssemblyReference.cache
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.csproj.CoreCompileInputs.cache
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.exe
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/obj/Debug/IteratorPattern.pdb
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe.config
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.exe
+/Users/fatihbaser/Downloads/IteratorPattern/IteratorPattern/bin/Debug/IteratorPattern.pdb

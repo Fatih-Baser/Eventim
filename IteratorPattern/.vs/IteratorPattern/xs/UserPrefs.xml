@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{58DE58EA-00FE-4087-B568-AB64E91F007A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IteratorPattern/Classes/Iterator.cs">
+    <Files>
+      <File FileName="IteratorPattern/Program.cs" Line="15" Column="31" />
+      <File FileName="IteratorPattern/Classes/ConcreteCollection.cs" Line="1" Column="1" />
+      <File FileName="IteratorPattern/Classes/Iterator.cs" Line="14" Column="13" />
+      <File FileName="IteratorPattern/Classes/AbstractCollection.cs" Line="1" Column="1" />
+      <File FileName="IteratorPattern/Classes/AbstractIterator.cs" Line="1" Column="1" />
+      <File FileName="IteratorPattern/Classes/Eventim.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IteratorPattern" expanded="True">
+            <Node name="IteratorPattern" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Iterator.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IteratorPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
